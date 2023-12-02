@@ -25,7 +25,7 @@
 
 3. Install cobra cli
 
-        go get -u github.com\spf13\cobra@latest
+        go get -u github.com/spf13/cobra@latest
 
 4. Build the go project
 
