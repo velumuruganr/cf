@@ -5,7 +5,7 @@
 
 ## Usage
 
->`cf flag file/foldername`
+    cf flag file/foldername
 
 #### Available flags:
     
@@ -17,41 +17,41 @@
 
 1. Clone the github repository
 
-    >`git clone https://www.github.com/velumuruganr/cf.git`
+        git clone https://www.github.com/velumuruganr/cf.git
 
 2. Change directory to the project folder
 
-    >`cd cf`
+        cd cf
 
 3. Install cobra cli
 
-    >`go get -u github.com\spf13\cobra@latest`
+        go get -u github.com\spf13\cobra@latest
 
 4. Build the go project
 
-    >`go build main.go`
+        go build main.go
 
 5. Add the binary to your GOPATH
 
-    >`go install`
+        go install
 
 ## Examples
 
 Create a empty file using the cf command
 
->`cf Sample.txt`
+    cf Sample.txt
 
->`cf -f Dockerfile`
+    cf -f Dockerfile
 
->`cf --file Dockerfile`
+    cf --file Dockerfile
 
 Create a new folder using the cf command
 
->`cf SampleFolder`
+    cf SampleFolder
 
->`cf -d SampleFolder.com`
+    cf -d SampleFolder.com
 
->`cf --folder gihub.com`
+    cf --folder gihub.com
 
 ## Contribution
 
