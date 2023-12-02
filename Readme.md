@@ -17,7 +17,7 @@
 
 1. Clone the github repository
 
-        git clone https://www.github.com/velumuruganr/cf.git
+        git clone https://github.com/velumuruganr/cf.git
 
 2. Change directory to the project folder
 
